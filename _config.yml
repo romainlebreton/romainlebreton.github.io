@@ -1,0 +1,5 @@
+baseurl: /class-boilerplate
+permalink: pretty
+
+kramdown:
+  parse_block_html: true
