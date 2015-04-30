@@ -1,4 +1,4 @@
-baseurl: /class-boilerplate
+#baseurl: /class-boilerplate
 permalink: pretty
 
 kramdown:
