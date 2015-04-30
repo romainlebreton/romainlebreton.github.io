@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # GitHub homepage of Romain Lebreton
-=======
-Class Boilerplate
-=================
 
-Boilerplate Jekyll code for class material.
->>>>>>> defeobp/master
+Boilerplate Jekyll code for class material from 
+[Luca Defeo](https://github.com/defeo/class-boilerplate).
