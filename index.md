@@ -7,5 +7,5 @@ title: Class boilerplate
 
 ## Cours
 
-1. [Cours de Programmation Web -- Client Riche](./ProgWeb-ClientRiche/)
+1. [Cours de Programmation Web -- Côté Serveur](./ProgWeb-CoteServeur/)
 
