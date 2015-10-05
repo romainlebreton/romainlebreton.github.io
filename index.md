@@ -5,7 +5,7 @@ title: Class boilerplate
 
 # Page des cours à l'IUT de Montpellier de Romain Lebreton
 
-## Cours 2014-2015
+## Cours 2015-2016
 
 ### En première année
 
