@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Class boilerplate
+title: Cours de Romain Lebreton
 ---
 
 # Page des cours à l'IUT de Montpellier de Romain Lebreton
