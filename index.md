@@ -14,5 +14,5 @@ title: Cours de Romain Lebreton
 ### En deuxième année
 
 1. [Cours de Programmation Web -- Côté Serveur](./ProgWeb-CoteServeur/)
-<!-- 1. [Cours de Programmation Web -- Client Riche](./ProgWeb-ClientRiche/) -->
+1. [Cours de Programmation Web -- Client Riche](./ProgWeb-ClientRiche/)
 
