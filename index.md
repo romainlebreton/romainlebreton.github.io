@@ -5,7 +5,7 @@ title: Cours de Romain Lebreton
 
 # Page des cours à l'IUT de Montpellier de Romain Lebreton
 
-## Cours 2015-2016
+## Cours 2016-2017
 
 ### En première année
 
