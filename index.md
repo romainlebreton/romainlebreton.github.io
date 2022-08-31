@@ -9,10 +9,10 @@ title: Cours de Romain Lebreton
 
 ### En première année
 
-1. [Cours de Programmation Web -- Conception documentaire (HTML/CSS)](./ProgWeb-HTMLCSS/)
+1. [R1.02 Développement d'interfaces web (HTML/CSS)](./R1.02-DeveloppementInterfacesWeb/)
 
 ### En deuxième année
 
-1. [Cours de Programmation Web -- Côté Serveur (PHP/MySQL/MVC)](./ProgWeb-CoteServeur/)
+1. [R3.01 Développement web (PHP/MySQL/MVC)](./R3.01-DeveloppementWeb/)
 <!-- 1. [Cours de Programmation Web -- Client Riche (JS/AJAX)](./ProgWeb-ClientRiche/) -->
 
